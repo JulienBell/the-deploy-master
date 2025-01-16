@@ -45,7 +45,7 @@
 
 		<!-- other plugin versions -->
 		<version.exec.plugin>1.4.0</version.exec.plugin>
-		<vertx.version>3.4.1</vertx.version>
+		<vertx.version>3.5.4</vertx.version>
 
 	</properties>
 
